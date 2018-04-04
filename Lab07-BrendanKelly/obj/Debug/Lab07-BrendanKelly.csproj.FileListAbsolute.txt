@@ -1,0 +1,6 @@
+c:\users\s01131183\documents\visual studio 2015\Projects\Lab07-BrendanKelly\Lab07-BrendanKelly\bin\Debug\Lab07-BrendanKelly.exe.config
+c:\users\s01131183\documents\visual studio 2015\Projects\Lab07-BrendanKelly\Lab07-BrendanKelly\obj\Debug\Lab07-BrendanKelly.csprojResolveAssemblyReference.cache
+c:\users\s01131183\documents\visual studio 2015\Projects\Lab07-BrendanKelly\Lab07-BrendanKelly\bin\Debug\Lab07-BrendanKelly.exe
+c:\users\s01131183\documents\visual studio 2015\Projects\Lab07-BrendanKelly\Lab07-BrendanKelly\bin\Debug\Lab07-BrendanKelly.pdb
+c:\users\s01131183\documents\visual studio 2015\Projects\Lab07-BrendanKelly\Lab07-BrendanKelly\obj\Debug\Lab07-BrendanKelly.exe
+c:\users\s01131183\documents\visual studio 2015\Projects\Lab07-BrendanKelly\Lab07-BrendanKelly\obj\Debug\Lab07-BrendanKelly.pdb
