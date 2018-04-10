@@ -1,0 +1,6 @@
+c:\users\s01131183\documents\visual studio 2015\Projects\IT1050-Midterm\IT1050-Midterm\bin\Debug\IT1050-Midterm.exe.config
+c:\users\s01131183\documents\visual studio 2015\Projects\IT1050-Midterm\IT1050-Midterm\bin\Debug\IT1050-Midterm.exe
+c:\users\s01131183\documents\visual studio 2015\Projects\IT1050-Midterm\IT1050-Midterm\bin\Debug\IT1050-Midterm.pdb
+c:\users\s01131183\documents\visual studio 2015\Projects\IT1050-Midterm\IT1050-Midterm\obj\Debug\IT1050-Midterm.csprojResolveAssemblyReference.cache
+c:\users\s01131183\documents\visual studio 2015\Projects\IT1050-Midterm\IT1050-Midterm\obj\Debug\IT1050-Midterm.exe
+c:\users\s01131183\documents\visual studio 2015\Projects\IT1050-Midterm\IT1050-Midterm\obj\Debug\IT1050-Midterm.pdb
